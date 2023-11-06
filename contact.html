@@ -20,7 +20,7 @@
 					<li><a href="projet.html">Projets</a></li>
 					<li><a href="veille.html">Veille</a></li>
 					<li><a href="projetpro.html">Projet Professionnel</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="contact.html">Contact</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -32,7 +32,7 @@
 					<li><a href="projet.html">Projets</a></li>
 					<li><a href="veille.html">Veille</a></li>
 					<li><a href="projetpro.html">Projet Professionnel</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="contact.html">Contact</a></li>
 				</ul>
 			</div>
 	
@@ -43,7 +43,7 @@
 						<h2 style="color:black;">Si vous souhaitez rentrer en contact avec moi, voici le formulaire de contact :</h2>
 				</div>
 					<div class="classique">
-					<?php
+					<!-- <?php
 					$errors = array('message' => '', 'email' => '', 'nom' => '', 'prenom' =>'');
 					$correct['envoie'] = "";
 					// Récupérer les données dans des variables
@@ -85,21 +85,21 @@ Message : $recupmessage";
 					}
 				}
 				
-					?>
-					<span class=error><?php echo $correct['envoie']; ?>
+					?> -->
+					<span class=error><!--<?php echo $correct['envoie']; ?> -->
 					<form method=post>
 					<table id="table_contact">
-						<tr><td><span class=error><?php echo $errors['nom']; ?></span>
+						<tr><td><span class=error><!--<?php echo $errors['nom']; ?> --></span>
 						<tr><td>
 								<input type="text" maxlength="32" class="input_form" name="nom" placeholder="Votre nom*" required />
 							
 						</tr>
-						<tr><td><span class=error><?php echo $errors['prenom']; ?></span>
+						<tr><td><span class=error><!--<?php echo $errors['prenom']; ?> --></span>
 						<tr><td>
 								<input type="text" maxlength="24" class="input_form" name="prenom" placeholder="Votre prénom*" required />
 							
 						</tr>
-						<tr><td><span class=error><?php echo $errors['email']; ?></span>
+						<tr><td><span class=error><!--<?php echo $errors['email']; ?> --></span>
 						<tr><td>
 								<input type="email" class="input_form" name="email" placeholder="Votre email*" required />
 							
@@ -110,7 +110,7 @@ Message : $recupmessage";
 						<tr><td>
 								<input type="text" class="input_form" name="sujet" placeholder="Sujet du mail*" required />
 						</tr>
-						<tr><td><span class=error><?php echo $errors['message']; ?></span>
+						<tr><td><span class=error><!--<?php echo $errors['message']; ?> --></span>
 						<tr><td>
 								<textarea name="message" required placeholder="Votre message (3000 caractères maximum)*"></textarea>
 							
