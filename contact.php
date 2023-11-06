@@ -11,7 +11,7 @@
 	<div class="banniere">
 		<nav class="menu">
 			<div class="moi">
-				<a href="portfolio.html" style="color:white;">Terence RENARD</a>
+				<a href="index.html" style="color:white;">Terence RENARD</a>
 		    </div>
 			<div class="menu1">
 				<ul>
@@ -122,6 +122,7 @@ Message : $recupmessage";
 						</tr>
 					</table>
 					</form>
+					Le formulaire est désactivé pour le moment.
 					</div>
 				</div>
 			</div>
