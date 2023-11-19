@@ -15,21 +15,71 @@ body {
 
 div.moi{
 	text-align: center;
-	color:white;
 	margin:-6px;
 	font-size:40px;
-	text-shadow: 0px 0px 6px #f00;
-	animation-name: clignote_nom;
-	animation-duration: 6s;
+	animation-name: clignote_nom_contour;
+	animation-duration: 12s;
 	animation-iteration-count: infinite;
 }
 
+.terence {
+	animation-name: clignote_nom;
+	animation-duration: 12s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes clignote_nom_contour {
+	0% {
+		text-shadow: 0px 0px 4px red;
+	}
+	14% {
+		text-shadow: 0px 0px 4px orange;
+	}
+	28% {
+		text-shadow: 0px 0px 4px yellow;
+	}
+	42% {
+		text-shadow: 0px 0px 4px limegreen;
+	}
+	57% {
+		text-shadow: 0px 0px 4px cyan;
+	}
+	71% {
+		text-shadow: 0px 0px 4px dodgerblue;
+	}
+	85% {
+		text-shadow: 0px 0px 4px plum;
+	}
+	100% {
+		text-shadow: 0px 0px 4px red;
+	}
+}
+
 @keyframes clignote_nom {
-	0% {text-shadow: 0px 0px 6px #f00;}
-	25% {text-shadow: 0px 0px 6px #0f0;}
-	50% {text-shadow: 0px 0px 6px #00f;}
-	75% {text-shadow: 0px 0px 6px #0ff;}
-	100% {text-shadow: 0px 0px 6px #f0f;}
+	0% {
+		color:red;
+	}
+	14% {
+		color:orange;
+	}
+	28% {
+		color:yellow;
+	}
+	42% {
+		color:limegreen;
+	}
+	57% {
+		color:cyan;
+	}
+	71% {
+		color:dodgerblue;
+	}
+	85% {
+		color:plum;
+	}
+	100% {
+		color:red;
+	}
 }
 
 nav.menu {

@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<!--<?php include "debut_pages.php"; ?> -->
+<!-- A TOUS CEUX QUI ANALYSENT LE CODE !
+Sachez qu'auparavant, ce portfolio était disponible sur un site gérant le PHP, par un certain concours de circonstances (croyez-moi, vous n'avez pas trop envie de savoir ce qu'il s'est passé),
+celui-ci a été fermé. Donc si vous souhaitez me contacter, allez directement dans m'envoyer un email avec l'adresse fournie en bas de la page.
+Il reste le code PHP qui a été effectué, à noter qu'il n'est absolument pas protégé contre les attaques XSS comme c'était le cas pour mon projet FarInWest. -->
 <html lang="fr">
     <head>
         <meta charset="UTF-8">
@@ -11,7 +14,7 @@
 	<div class="banniere">
 		<nav class="menu">
 			<div class="moi">
-				<a href="index.html" style="color:white;">Terence RENARD</a>
+				<a class="terence" href="index.html" style=>Terence RENARD</a>
 		    </div>
 			<div class="menu1">
 				<ul>
@@ -91,28 +94,28 @@ Message : $recupmessage";
 					<table id="table_contact">
 						<tr><td><span class=error><!--<?php echo $errors['nom']; ?> --></span>
 						<tr><td>
-								<input type="text" maxlength="32" class="input_form" name="nom" placeholder="Votre nom*" required />
+								<input type="text" maxlength="32" class="input_form" name="nom" placeholder="Votre nom*" disabled="disabled" />
 							
 						</tr>
 						<tr><td><span class=error><!--<?php echo $errors['prenom']; ?> --></span>
 						<tr><td>
-								<input type="text" maxlength="24" class="input_form" name="prenom" placeholder="Votre prénom*" required />
+								<input type="text" maxlength="24" class="input_form" name="prenom" placeholder="Votre prénom*" disabled="disabled" />
 							
 						</tr>
 						<tr><td><span class=error><!--<?php echo $errors['email']; ?> --></span>
 						<tr><td>
-								<input type="email" class="input_form" name="email" placeholder="Votre email*" required />
+								<input type="email" class="input_form" name="email" placeholder="Votre email*" disabled="disabled" />
 							
 						</tr>
 						<tr><td>
 								<input type="telephone" class="input_form" name="telephone" placeholder="Votre numéro de téléphone"/>
 						</tr>
 						<tr><td>
-								<input type="text" class="input_form" name="sujet" placeholder="Sujet du mail*" required />
+								<input type="text" class="input_form" name="sujet" placeholder="Sujet du mail*" disabled="disabled" />
 						</tr>
 						<tr><td><span class=error><!--<?php echo $errors['message']; ?> --></span>
 						<tr><td>
-								<textarea name="message" required placeholder="Votre message (3000 caractères maximum)*"></textarea>
+								<textarea name="message" disabled="disabled" placeholder="Votre message (3000 caractères maximum)*"></textarea>
 							
 						</tr>
 						<tr><td>
@@ -122,8 +125,8 @@ Message : $recupmessage";
 						</tr>
 					</table>
 					</form>
-					Le formulaire est désactivé pour le moment.
 					</div>
+					Le formulaire est désactivé pour le moment.
 				</div>
 			</div>
 		</div>
