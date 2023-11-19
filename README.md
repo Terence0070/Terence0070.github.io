@@ -18,7 +18,7 @@ Si, plutôt que c'est difficile, il faut dire qu'on tatônne, on fait des petite
 
 *"Le formulaire de contact est désactivé, comment pouvons-nous vous contacter ?"*
 
-Il y a mon adresse mail dans la partie "Contact" tout en bas, vous pouvez me contacter via celui-ci, j'essayerai de vous répondre dans les plus brefs délais !
+Il y a mon adresse mail dans la partie "Contact" tout en bas, vous pouvez me contacter via celui-ci, j'essayerai de vous répondre dans les plus brefs délais ! Il est à noter que dans le cadre du CV et du Portfolio, seul mon adresse email est disponible (autant dire que mettre mon numéro de téléphone ou mon adresse... bof).
 
 *"Pourquoi autant de vert ?"*
 
