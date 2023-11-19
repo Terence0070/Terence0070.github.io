@@ -162,6 +162,10 @@ nav.menu {
 	min-height:60em;
 }
 
+.center {
+	text-align:center;
+}
+
 .divisedeux {
 	display:flex;
 	justify-content:space-between;
@@ -329,7 +333,7 @@ form {
 
 input, textarea {
   width: 100%;
-  padding: 0.8em;
+  padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
 }
@@ -340,6 +344,7 @@ input[type="submit"] {
   border: none;
   border-radius: 0.25em;
   cursor: pointer;
+  margin-left:10px;
 }
 
 input[type="submit"]:hover {

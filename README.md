@@ -16,7 +16,9 @@ Ce portfolio n'est ni plus ni moins que la présentation de ma personnalité, de
 
 Si, plutôt que c'est difficile, il faut dire qu'on tatônne, on fait des petites recherches sur Internet pour savoir comment faire X ou Y et ce genre de chose... Mais bon, c'est toujours stimulant et ça représente bien ma détermination et ma curiosité à faire un travail convaincant et propre.
 
-*"Le formulaire de contact 
+*"Le formulaire de contact est désactivé, comment pouvons-nous vous contacter ?"*
+
+Il y a mon adresse mail dans la partie "Contact" tout en bas, vous pouvez me contacter via celui-ci, j'essayerai de vous répondre dans les plus brefs délais !
 
 *"Pourquoi autant de vert ?"*
 
