@@ -14,12 +14,14 @@ Ce portfolio n'est ni plus ni moins que la présentation de ma personnalité, de
 
 *"C'est pas trop difficile pour un débutant de faire un portfolio de A à Z ?"*
 
-Si, plutôt que c'est difficile, il faut dire qu'on tatônne, on fait des petites recherches sur Internet pour savoir comment faire X ou Y et ce genre de chose... Mais bon, c'est toujours stimulant et ça représente bien ma détermination et ma curiosité à faire un travail convaincant et propre.
+Si, c'est plutôt difficile, il faut dire qu'on tatônne, on fait des petites recherches sur Internet pour savoir comment faire X ou Y et ce genre de chose... Mais bon, c'est toujours stimulant et ça représente bien ma détermination et ma curiosité à faire un travail convaincant et propre.
 
 *"Le formulaire de contact est désactivé, comment pouvons-nous vous contacter ?"*
 
-Il y a mon adresse mail dans la partie "Contact" tout en bas, vous pouvez me contacter via celui-ci, j'essayerai de vous répondre dans les plus brefs délais ! Il est à noter que dans le cadre du CV et du Portfolio, seul mon adresse email est disponible (autant dire que mettre mon numéro de téléphone ou mon adresse... bof).
+Il y a mon adresse mail dans la partie "Contact" tout en bas, vous pouvez me contacter via celui-ci, j'essayerai de vous répondre dans les plus brefs délais !
 
 *"Pourquoi autant de vert ?"*
 
 Car j'adore le vert.
+
+**NOTE :** Certaines informations dans ce portfolio public sont effacées comme mon adresse exacte et mon numéro de téléphone.
