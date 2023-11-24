@@ -24,4 +24,8 @@ Il y a mon adresse mail dans la partie "Contact" tout en bas, vous pouvez me con
 
 Car j'adore le vert.
 
+*"Oui mais ce n'est pas forcéme..."*
+
+Je ne négocie pas avec les terroristes.
+
 **NOTE :** Certaines informations dans ce portfolio public sont effacées comme mon adresse exacte et mon numéro de téléphone.
